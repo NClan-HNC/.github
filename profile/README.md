@@ -1,5 +1,4 @@
-![softwareDevBanner](https://github.com/user-attachments/assets/fc32d27d-522c-4b6f-ac89-9ea761a9508c)
-# Sample code
+![ai-class-banner-smaller](https://github.com/user-attachments/assets/0d14c13f-0433-4b42-bc08-0e1002ec6e53)
 
 ## Contents
 ![java-logo](https://github.com/user-attachments/assets/79e1eb7b-c2e4-475a-9c4d-1c8208cee2b5) The projects uploaded here use JDK 22, you may need to update the project or your computer to get a clean build.
