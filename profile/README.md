@@ -10,7 +10,7 @@ Use the projects to see how different elements and constructs can be created and
 
 ## Command line
 
-Todo
+** Nothing uploaded to this section yet **
 
 ## Swing based GUI
 
