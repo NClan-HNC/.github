@@ -20,6 +20,7 @@ Use the projects to see how different elements and constructs can be created and
 | -- | -- | --|
 | [BitsAndPieces](https://github.com/NClan-HNC/BitsAndPieces) | Example of using different components. | JSpinner, JSlider, scaling images |
 | [BitsAndPieces2](https://github.com/NClan-HNC/BitsAndPieces2) | Example of using different components. | JEditorPane, JPassword, JProgressBar, JFileChooser, JMenu |
+| [CurrencyConverter](https://github.com/NClan-HNC/CurrencyConverterSwing) | Simple currency converter. | Uses a few components, also includes Spanish translation |
 | [HolidayCheckList]() | Used as an example of Swing GUI ccomponents. | Design and test documentation is available in Moodle. |
 | [MultiForms](https://github.com/NClan-HNC/MultipleForms) | Using multiple windows in a single application. | Makes use of IntelliJ Swing UI Designer to create three windows. | 
 | [Swing-CombBox-TimesTable](https://github.com/NClan-HNC/Swing-ComboBox-TimesTable) | Starts with the basic tutorial and exapands it to demonstrate alternate ways to acheive the same result. | 3 versions | 
